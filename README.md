@@ -77,3 +77,10 @@ pnpm package --linux pacman
 # Or package to a directory only
 pnpm package:dir
 ```
+Changes made by me:
+Note: To install build the package using the instruction above
+- [x] Changed the loading animation.
+- [x] Change the icon.
+- [ ] Allow multiple message pins
+- [ ] Scheduled Messages
+- [ ] DM Categories: Able to group dms into a folder
